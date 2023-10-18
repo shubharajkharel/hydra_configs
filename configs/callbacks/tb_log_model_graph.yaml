@@ -1,0 +1,2 @@
+tb_log_model_graph:
+  _target_: utils.src.lightning.loggers.tb.log_model_graph.TensorboardLogGraph

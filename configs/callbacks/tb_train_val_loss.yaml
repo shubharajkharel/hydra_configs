@@ -1,0 +1,2 @@
+tb_train_val_loss:
+  _target_: utils.src.lightning.loggers.tb.log_train_val_loss.TensorboardLogTestTrainLoss

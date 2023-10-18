@@ -1,0 +1,2 @@
+tb_log_weights_hist:
+  _target_: utils.src.lightning.loggers.tb.log_weights_hist.TensorboardLogAllWeigthsHist
